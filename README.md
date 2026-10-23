@@ -8,14 +8,14 @@ Library Java ringan untuk convert angka jadi kata berbahasa Indonesia.
 
 > `12345` -> `DUA BELAS RIBU TIGA RATUS EMPAT PULUH LIMA`
 
-### ✨ Fitur
+### Fitur
 - ✅ Support SERIBU & SERATUS (bukan SATU RIBU)
 - ✅ Support negatif MINUS, desimal KOMA
 - ✅ Support sampai KUADRILIUN (10^15)
 - ✅ 3 tipe input: long, String, double
 - ✅ 1 file, 0 dependency, Java 8+
 
-### 📦 Instalasi via JitPack
+### Instalasi via JitPack
 
 **settings.gradle:**
 ```gradle
@@ -42,4 +42,4 @@ NumberToWords.convert(123.45); // SERATUS DUA PULUH TIGA KOMA EMPAT LIMA
 ```
 
 Lisensi
-MIT License - Bebas pakai
+MIT License
